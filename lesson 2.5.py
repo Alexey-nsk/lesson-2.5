@@ -1,6 +1,6 @@
 def print_params(mass, volume):
     print('cargo_kg=', mass, 'cargo_m3=', volume)
-
+    print('color= red')
 
 print_params(1000, 1)
 print_params(2000, 2)
